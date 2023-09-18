@@ -6,7 +6,7 @@ public/
 resources/
 storage/
 tests/
-vender/
+vendor/
 .editorconfig
 .env
 .env.example
